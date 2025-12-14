@@ -63,20 +63,21 @@ Features:
 - Armadillos now attack creakings and spread resin
 - Sniffers now dig up more plants
 - Sloths with occasionally descend from trees to defecate, speeding up crop growth if a sloth is nearby
-- Zombie wolf always spawn with navy wolf armor
+- Zombie wolves always spawn with navy wolf armor
 - Renaming a ground sloth "Sid" will change the model to the famous character from Ice Age
 - Iron golems hesitate to attack zombie cops
 - Anteaters are hostile towards any mob that can grief, such as creepers, endermen, zombies, rabbits, vindicators, and ravagers (they will repel ghasts)
 - Ground sloth husks can be dug up from trail ruins
 - Wolves can still be tamed, but they will be slightly more feral
 - Dogs spawn in villages
+- Torchflowers now emit light
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, and a ground sloth on a lead)
 - Great Pal (command an armadillo to mine with the bug whistle)
 - Creeper, Aw Man (Have an anteater kill a creeper)
 - Uh Oh, Stinky (Have a sloth speed up crop growth)
-- Five Star Level Wanted (Defeat a zombie cop)
+- Five-Star Level Wanted (Defeat a zombie cop)
 - Law and Disorder (Defeat a zombie cop and its backup while they're raiding your house)
 - Doggy Retirement (Tame a zombie wolf)
 - Doggy Catalogue (Tame every dog breed)
