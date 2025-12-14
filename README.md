@@ -71,6 +71,7 @@ Features:
 - Wolves can still be tamed, but they will be slightly more feral
 - Dogs spawn in villages
 - Torchflowers now emit light
+- Renaming a cat "Miss" will change its texture
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, and a ground sloth on a lead)
