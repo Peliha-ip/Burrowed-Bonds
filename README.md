@@ -85,3 +85,4 @@ Advancements:
 - Police, Open the Door (Break down a door with a crowbar)
 - Sheriff's Office (Use a battering ram to break a hard block)
 - Mr. Sparky (Get your hands on a taser and use it to stun a mob)
+- Role Reversal (Tase a zombie cop)
