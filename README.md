@@ -45,7 +45,7 @@ Items:
 - Ground sloth husk
 - Ground sloth DNA
 - Ground sloth egg
-- -Anteater spawn egg
+- Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
 - Zombie cop spawn egg
