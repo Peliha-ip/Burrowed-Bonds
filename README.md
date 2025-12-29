@@ -54,6 +54,9 @@ Items:
 - Anteater claw
 - Ostrich feather
 
+Structure:
+- Zombie Justice Complex (Police station, jail, court, and prison)
+
 Features:
 - Termite mounds generate in savannas and jungles
 - Anthills generate anywhere but cold or ocean biomes
