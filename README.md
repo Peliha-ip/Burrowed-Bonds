@@ -8,6 +8,7 @@ Mobs:
 - Zombie wolf
 - Dog breeds (chihuahuas, great danes, dalmatians, golden retrievers, labradors, pomenarians, bulldogs, dachshunds, beagles, rottweilers, huskies, pitbulls, and german shepherds)
 - Ostrich
+- Vulture
 
 Blocks:
 - Termite mounds
@@ -28,6 +29,8 @@ Blocks:
 - Baobab hanging sign
 - Baobab shelf
 - Ground sloth reviver
+- Prickly Pear Cactus
+- Tumbleweed
 
 Items:
 - Bug whistle
@@ -51,6 +54,7 @@ Items:
 - Zombie cop spawn egg
 - Zombie wolf spawn egg
 - Dog spawn egg
+- Vulture Spawn Egg
 - Anteater claw
 - Ostrich feather
 
@@ -75,6 +79,7 @@ Features:
 - Dogs spawn in villages
 - Torchflowers now emit light
 - Renaming a cat "Miss" will change its texture
+- Vultures will circle around where the player last died.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, and a ground sloth on a lead)
