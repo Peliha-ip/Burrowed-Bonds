@@ -9,6 +9,8 @@ Mobs:
 - Dog breeds (chihuahuas, great danes, dalmatians, golden retrievers, labradors, pomenarians, bulldogs, dachshunds, beagles, rottweilers, huskies, pitbulls, and german shepherds)
 - Ostrich
 - Vulture
+- Moobloom
+- Glare
 
 Blocks:
 - Termite mounds
@@ -31,6 +33,10 @@ Blocks:
 - Ground sloth reviver
 - Prickly Pear Cactus
 - Tumbleweed
+- Cyan Flower
+- Buttercup
+- Peony
+- Rose Flower
 
 Items:
 - Bug whistle
@@ -80,6 +86,9 @@ Features:
 - Torchflowers now emit light
 - Renaming a cat "Miss" will change its texture
 - Vultures will circle around where the player last died.
+- Mooblooms change appearances according to what flower is applied on it. They will also produce suspicious stew of the corresponding flower without having to feed it constantly.
+- Mooblooms also are best friends with bees.
+- The glare will place torches for tou if it growls over dark places.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, and a ground sloth on a lead)
