@@ -31,7 +31,7 @@ Blocks:
 - Baobab hanging sign
 - Baobab shelf
 - Ground sloth reviver
-- Prickly Pear Cactus
+- Prickly pear cactus
 - Tumbleweed
 - Cyan flower
 - Buttercup
