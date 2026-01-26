@@ -33,10 +33,10 @@ Blocks:
 - Ground sloth reviver
 - Prickly Pear Cactus
 - Tumbleweed
-- Cyan Flower
+- Cyan flower
 - Buttercup
 - Peony
-- Rose Flower
+- Rose flower
 
 Items:
 - Bug whistle
@@ -60,7 +60,9 @@ Items:
 - Zombie cop spawn egg
 - Zombie wolf spawn egg
 - Dog spawn egg
-- Vulture Spawn Egg
+- Vulture spawn egg
+- Moobloom spawn egg
+- Glare spawn egg
 - Anteater claw
 - Ostrich feather
 
