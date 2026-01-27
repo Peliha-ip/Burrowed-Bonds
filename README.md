@@ -90,7 +90,7 @@ Features:
 - Vultures will circle around where the player last died.
 - Mooblooms change appearances according to what flower is applied on it. They will also produce suspicious stew of the corresponding flower without having to feed it constantly.
 - Mooblooms also are best friends with bees.
-- The glare will place torches for tou if it growls over dark places.
+- The glare will place torches for you if it growls over dark places.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, and a ground sloth on a lead)
