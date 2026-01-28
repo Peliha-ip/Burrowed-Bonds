@@ -1,4 +1,4 @@
-This mod is an earthy game drop that expands on many earthy features. It also expands the armadillo by making it mine blocks when you have the bug whistle on.
+This mod is an earthy game drop that expands on many earthy features. It also expands the armadillo by making it mine blocks when you have the bug whistle on. This mod brings back the 2018 and 2019 biome vote losers with the savanna update and badlands update as well as the 2020 mob vote loser, the moobloom and the 2021 mob vote loser, the glare.
 
 Mobs:
 - Anteater
