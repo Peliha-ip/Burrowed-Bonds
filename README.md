@@ -42,7 +42,7 @@ Items:
 - Bug whistle
 - Taser
 - Police badge
-- Baobab charango (if Shellfish Reigns is installed)
+- Charango
 - Wooden crowbar
 - Stone crowbar
 - Copper crowbar
@@ -105,3 +105,4 @@ Advancements:
 - Sheriff's Office (Use a battering ram to break a hard block)
 - Mr. Sparky (Get your hands on a taser and use it to stun a mob)
 - Role Reversal (Tase a zombie cop)
+- Andean Groove (Play any note on a charango)
