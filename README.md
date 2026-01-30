@@ -39,7 +39,8 @@ Blocks:
 - Cyan flower
 - Buttercup
 - Paeonia
-- Rose flower
+- Rose
+- Cerulean vine
 - Echidna egg
 - Snake egg
 - Glyptodont Reviver
