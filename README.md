@@ -37,7 +37,7 @@ Blocks:
 - Tumbleweed
 - Cyan flower
 - Buttercup
-- Peony
+- Paeonia
 - Rose flower
 - Echidna egg
 - Snake egg
