@@ -11,6 +11,8 @@ Mobs:
 - Vulture
 - Moobloom
 - Glare
+- Echidna
+- Snake
 
 Blocks:
 - Termite mounds
@@ -37,6 +39,8 @@ Blocks:
 - Buttercup
 - Peony
 - Rose flower
+- Echidna egg
+- Snake egg
 
 Items:
 - Bug whistle
@@ -63,6 +67,8 @@ Items:
 - Vulture spawn egg
 - Moobloom spawn egg
 - Glare spawn egg
+- Echidna spawn egg
+- Snake spawn egg
 - Anteater claw
 - Ostrich feather
 
