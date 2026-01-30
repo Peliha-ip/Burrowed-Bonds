@@ -13,6 +13,7 @@ Mobs:
 - Glare
 - Echidna
 - Snake
+- Glyptodont
 
 Blocks:
 - Termite mounds
@@ -41,6 +42,7 @@ Blocks:
 - Rose flower
 - Echidna egg
 - Snake egg
+- Glyptodont Reviver
 
 Items:
 - Bug whistle
@@ -58,6 +60,11 @@ Items:
 - Ground sloth husk
 - Ground sloth DNA
 - Ground sloth egg
+- Glyptodont egg
+- Glyptodont husk
+- Glyptodont DNA
+- Anteater claw
+- Ostrich feather
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -69,8 +76,7 @@ Items:
 - Glare spawn egg
 - Echidna spawn egg
 - Snake spawn egg
-- Anteater claw
-- Ostrich feather
+- Glyptodon spawn egg
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
