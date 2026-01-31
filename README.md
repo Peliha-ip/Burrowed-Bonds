@@ -14,6 +14,7 @@ Mobs:
 - Echidna
 - Snake
 - Glyptodont
+- Quake
 
 Blocks:
 - Termite mounds
@@ -66,6 +67,8 @@ Items:
 - Glyptodont DNA
 - Anteater claw
 - Ostrich feather
+- Quake rod
+- Earthquake charge
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -78,9 +81,11 @@ Items:
 - Echidna spawn egg
 - Snake spawn egg
 - Glyptodon spawn egg
+- Quake spawn egg
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
+- Fault nest
 
 Features:
 - Termite mounds generate in savannas and jungles
@@ -104,6 +109,7 @@ Features:
 - Mooblooms change appearances according to what flower is applied on it. They will also produce suspicious stew of the corresponding flower without having to feed it constantly.
 - Mooblooms also are best friends with bees.
 - The glare will place torches for you if it growls over dark places.
+- The quake is found in the fault nest and can drop a quake rod. Putting a quake rod in a crafting table will grant the player 2 earthquake charges, using an earthquake charge will cause an earthquake. The earthquake will just shake things up, it won't destroy builds or the terrain.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, and a ground sloth on a lead)
@@ -119,3 +125,4 @@ Advancements:
 - Mr. Sparky (Get your hands on a taser and use it to stun a mob)
 - Role Reversal (Tase a zombie cop)
 - Andean Groove (Play any note on a charango)
+- Do the earthquake (Use an earthquake charge to trigger an earthquake)
