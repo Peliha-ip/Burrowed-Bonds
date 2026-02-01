@@ -44,7 +44,9 @@ Blocks:
 - Cerulean vine
 - Echidna egg
 - Snake egg
-- Glyptodont Reviver
+- Ground sloth egg
+- Glyptodont egg
+- Glyptodont reviver
 
 Items:
 - Bug whistle
@@ -61,8 +63,6 @@ Items:
 - Battering ram
 - Ground sloth husk
 - Ground sloth DNA
-- Ground sloth egg
-- Glyptodont egg
 - Glyptodont husk
 - Glyptodont DNA
 - Anteater claw
