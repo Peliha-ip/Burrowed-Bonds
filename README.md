@@ -15,6 +15,8 @@ Mobs:
 - Snake
 - Glyptodont
 - Quake
+- Hornet
+- Mongoose
 
 Blocks:
 - Termite mounds
@@ -82,10 +84,15 @@ Items:
 - Snake spawn egg
 - Glyptodon spawn egg
 - Quake spawn egg
+- Hornet spawn egg
+- Mongoose spawn egg
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
 - Fault nest
+- Termite mounds
+- Anthills
+- Hornet nest
 
 Features:
 - Termite mounds generate in savannas and jungles
@@ -110,9 +117,11 @@ Features:
 - Mooblooms also are best friends with bees.
 - The glare will place torches for you if it growls over dark places.
 - The quake is found in the fault nest and can drop a quake rod. Putting a quake rod in a crafting table will grant the player 2 earthquake charges, using an earthquake charge will cause an earthquake. The earthquake will just shake things up, it won't destroy builds or the terrain.
+- Hornets attack bees like zombies attack villagers. If you have a bee farm, it should be a great idea to protect your bees or take down a hornet if you see one.
+- Snakes and mongooses are enemies and will fight.
 
 Advancements:
-- Ancient Kin (attach an armadillo, an anteater, a sloth, and a ground sloth on a lead)
+- Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
 - Great Pal (command an armadillo to mine with the bug whistle)
 - Creeper, Aw Man (Have an anteater kill a creeper)
 - Uh Oh, Stinky (Have a sloth speed up crop growth)
