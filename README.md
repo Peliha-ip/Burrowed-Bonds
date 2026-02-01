@@ -17,6 +17,7 @@ Mobs:
 - Quake
 - Hornet
 - Mongoose
+- Scorpion
 
 Blocks:
 - Termite mounds
@@ -86,6 +87,7 @@ Items:
 - Quake spawn egg
 - Hornet spawn egg
 - Mongoose spawn egg
+- Scorpion spawn egg
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
