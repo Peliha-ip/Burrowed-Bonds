@@ -50,6 +50,7 @@ Blocks:
 - Ground sloth egg
 - Glyptodont egg
 - Glyptodont reviver
+- Wax block
 
 Items:
 - Bug whistle
@@ -71,6 +72,7 @@ Items:
 - Anteater claw
 - Quake rod
 - Earthquake charge
+- Crystallized honey
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
