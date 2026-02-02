@@ -69,7 +69,6 @@ Items:
 - Glyptodont husk
 - Glyptodont DNA
 - Anteater claw
-- Ostrich feather
 - Quake rod
 - Earthquake charge
 - Anteater spawn egg
