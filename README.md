@@ -18,10 +18,11 @@ Mobs:
 - Hornet
 - Mongoose
 - Scorpion
+- Warthog
 
 Blocks:
-- Termite mounds
-- Anthills
+- Termite mound
+- Anthill
 - Baobab sapling
 - Baobab leaves
 - Baobab log
@@ -89,6 +90,7 @@ Items:
 - Hornet spawn egg
 - Mongoose spawn egg
 - Scorpion spawn egg
+- Warthog spawn egg
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
@@ -137,4 +139,5 @@ Advancements:
 - Mr. Sparky (Get your hands on a taser and use it to stun a mob)
 - Role Reversal (Tase a zombie cop)
 - Andean Groove (Play any note on a charango)
-- Do the earthquake (Use an earthquake charge to trigger an earthquake)
+- Do the Earthquake (Use an earthquake charge to trigger an earthquake)
+- Disturb a Nest of Wasp For No Good Reason (Aggravate hornets by hitting their nest)
