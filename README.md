@@ -142,3 +142,4 @@ Advancements:
 - Andean Groove (Play any note on a charango)
 - Do the Earthquake (Use an earthquake charge to trigger an earthquake)
 - Disturb a Nest of Wasp For No Good Reason (Aggravate hornets by hitting their nest)
+- We Miss You (rename a cat "Miss")
