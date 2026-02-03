@@ -122,8 +122,9 @@ Features:
 - Mooblooms also are best friends with bees.
 - The glare will place torches for you if it growls over dark places.
 - The quake is found in the fault nest and can drop a quake rod. Putting a quake rod in a crafting table will grant the player 2 earthquake charges, using an earthquake charge will cause an earthquake. The earthquake will just shake things up, it won't destroy builds or the terrain.
-- Hornets attack bees like zombies attack villagers. If you have a bee farm, it should be a great idea to protect your bees or take down a hornet if you see one.
+- Hornets attack bees like zombies attack villagers. If you have a bee farm, it should be a great idea to protect your bees and take down a hornet if you see one.
 - Snakes and mongooses are enemies and will fight.
+- If a hornet attacks a bee and there are enough bees nearby, the bees will counterattack the hornet with their bee ball technique.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
