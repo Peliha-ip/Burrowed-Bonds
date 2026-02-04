@@ -22,6 +22,7 @@ Mobs:
 - White goose
 - Duck
 - Swan
+- Alpaca
 
 Blocks:
 - Termite mound
@@ -97,6 +98,7 @@ Items:
 - Swan spawn egg
 - White goose spawn egg
 - Duck spawn egg
+- Alpaca spawn egg
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
