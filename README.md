@@ -19,6 +19,9 @@ Mobs:
 - Mongoose
 - Scorpion
 - Warthog
+- White goose
+- Duck
+- Swan
 
 Blocks:
 - Termite mound
@@ -91,6 +94,9 @@ Items:
 - Mongoose spawn egg
 - Scorpion spawn egg
 - Warthog spawn egg
+- Swan spawn egg
+- White goose spawn egg
+- Duck spawn egg
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
@@ -125,6 +131,7 @@ Features:
 - Hornets attack bees like zombies attack villagers. If you have a bee farm, it should be a great idea to protect your bees and take down a hornet if you see one.
 - Snakes and mongooses are enemies and will fight.
 - If a hornet attacks a bee and there are enough bees nearby, the bees will counterattack the hornet with their bee ball technique.
+- Renaming a warthog "Pumba" or "Pumbaa" will change its texture to match the famous character from The Lion King.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
