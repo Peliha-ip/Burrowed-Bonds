@@ -25,6 +25,7 @@ Mobs:
 - Alpaca
 - Alligator
 - Centipede
+- Tortoise
 
 Blocks:
 - Termite mound
@@ -58,6 +59,8 @@ Blocks:
 - Glyptodont egg
 - Glyptodont reviver
 - Wax block
+- Cabbage crop
+- Lettuce crop
 
 Items:
 - Bug whistle
@@ -103,6 +106,16 @@ Items:
 - Alpaca spawn egg
 - Alligator spawn egg
 - Centipede spawn egg
+- Tortoise spawn egg
+
+Food:
+- Lettuce
+- Cabbage
+- Salad
+- Raw duck
+- Cooked duck
+- Raw goose
+- Cooked goose
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
