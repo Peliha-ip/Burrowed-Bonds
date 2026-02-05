@@ -79,6 +79,11 @@ Blocks:
 - Pepper bush
 - Olive bush
 - Radish crop
+- Dill crop
+- Chives crop
+- Parsley crop
+- Garlic crop
+- Basil crop
 
 Items:
 - Bug whistle
@@ -148,6 +153,11 @@ Food:
 - Radish
 - Pepper
 - Olive
+- Dill
+- Chives
+- Parsley
+- Garlic
+- Basil
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
