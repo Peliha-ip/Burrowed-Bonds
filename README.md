@@ -123,6 +123,7 @@ Structure:
 - Termite mounds
 - Anthills
 - Hornet nest
+- Brick pyramid
 
 Features:
 - Termite mounds generate in savannas and jungles
