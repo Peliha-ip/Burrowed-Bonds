@@ -34,6 +34,7 @@ Mobs:
 - Ferret
 - Cluckshroom
 - Blighted
+- Red panda
 
 Blocks:
 - Termite mound
@@ -124,6 +125,7 @@ Items:
 - Skeleton wolf spawn egg
 - Mole spawn egg
 - Blighted spawn egg
+- Red panda spawn egg
 
 Food:
 - Lettuce
