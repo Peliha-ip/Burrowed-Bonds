@@ -61,6 +61,7 @@ Blocks:
 - Wax block
 - Cabbage crop
 - Lettuce crop
+- Hornet nest
 
 Items:
 - Bug whistle
