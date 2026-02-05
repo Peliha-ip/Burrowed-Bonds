@@ -172,6 +172,7 @@ Features:
 - Pigs can occasionally be covered in mud.
 - When a blighted attacks a player or a villager, poison is given to them.
 - Renaming a hedgehog "Sonic" which will change its texture to a character that needs no introduction.
+- Renaming a ferret "Blarret" will change its texture to match the character from My Singing Monsters.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
