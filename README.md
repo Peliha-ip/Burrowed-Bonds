@@ -74,6 +74,7 @@ Blocks:
 - Armadillo scute block
 - Cut armadillo scute block
 - Charcoal block
+- Scarecrow
 
 Items:
 - Bug whistle
