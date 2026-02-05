@@ -71,6 +71,8 @@ Blocks:
 - Cabbage crop
 - Lettuce crop
 - Hornet nest
+- Armadillo scute block
+- Charcoal block
 
 Items:
 - Bug whistle
