@@ -75,6 +75,10 @@ Blocks:
 - Cut armadillo scute block
 - Charcoal block
 - Scarecrow
+- Cucumber bush
+- Pepper bush
+- Olive bush
+- Radish crop
 
 Items:
 - Bug whistle
@@ -139,6 +143,11 @@ Food:
 - Cooked duck
 - Raw goose
 - Cooked goose
+- Cucumber
+- Ranch
+- Radish
+- Pepper
+- Olive
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
