@@ -84,6 +84,7 @@ Blocks:
 - Parsley crop
 - Garlic crop
 - Basil crop
+- Turnip crop
 
 Items:
 - Bug whistle
@@ -158,6 +159,10 @@ Food:
 - Parsley
 - Garlic
 - Basil
+- Raw turnip
+- Baked turnip
+- Pickled turnip
+- Turnip stew
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
