@@ -143,6 +143,11 @@ Structure:
 - Anthills
 - Hornet nest
 - Brick pyramid
+- Jungle and swamp villages
+- Volcano
+
+Biome:
+- Volcano
 
 Features:
 - Termite mounds generate in savannas and jungles
