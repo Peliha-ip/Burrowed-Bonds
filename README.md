@@ -72,6 +72,7 @@ Blocks:
 - Lettuce crop
 - Hornet nest
 - Armadillo scute block
+- Cut armadillo scute block
 - Charcoal block
 
 Items:
