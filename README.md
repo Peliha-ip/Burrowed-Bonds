@@ -26,6 +26,14 @@ Mobs:
 - Alligator
 - Centipede
 - Tortoise
+- Raven
+- Millipede
+- Hedgehog
+- Mole
+- Skeleton wolf
+- Ferret
+- Cluckshroom
+- Blighted
 
 Blocks:
 - Termite mound
@@ -108,6 +116,14 @@ Items:
 - Alligator spawn egg
 - Centipede spawn egg
 - Tortoise spawn egg
+- Cluckshroom spawn egg
+- Millipede spawn egg
+- Raven spawn egg
+- Hedgehog spawn egg
+- Ferret spawn egg
+- Skeleton wolf spawn egg
+- Mole spawn egg
+- Blighted spawn egg
 
 Food:
 - Lettuce
@@ -153,6 +169,9 @@ Features:
 - Snakes and mongooses are enemies and will fight.
 - If a hornet attacks a bee and there are enough bees nearby, the bees will counterattack the hornet with their bee ball technique.
 - Renaming a warthog "Pumba" or "Pumbaa" will change its texture to match the famous character from The Lion King.
+- Pigs can occasionally be covered in mud.
+- When a blighted attacks a player or a villager, poison is given to them.
+- Renaming a hedgehog "Sonic" which will change its texture to a character that needs no introduction.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
