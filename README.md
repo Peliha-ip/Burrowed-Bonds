@@ -212,6 +212,7 @@ Features:
 - Renaming a ferret "Blarret" will change its texture to match the character from My Singing Monsters.
 - Spike blocks are similar to pointed dripstone. Only difference, they can retract with a redstone input.
 - Sculk jaws traps anything that walks on it and damages it over time. Jumping repetitively will cause the jaw to let go and give whatever was trapped in it to escape.
+- Axolotls can now be green.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
