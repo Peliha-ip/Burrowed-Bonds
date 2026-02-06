@@ -93,13 +93,7 @@ Items:
 - Taser
 - Police badge
 - Charango
-- Wooden crowbar
-- Stone crowbar
-- Copper crowbar
-- Iron crowbar
-- Golden crowbar
-- Diamond crowbar
-- Netherite crowbar
+- Crowbar
 - Battering ram
 - Ground sloth husk
 - Ground sloth DNA
