@@ -87,6 +87,10 @@ Blocks:
 - Turnip crop
 - Spike block
 - Sculk jaw
+- Purple mushroom
+- Blue mushroom
+- Purple mushroom block
+- Blue mushroom block
 
 Items:
 - Bug whistle
