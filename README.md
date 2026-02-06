@@ -146,6 +146,7 @@ Food:
 - Raw goose
 - Cooked goose
 - Cucumber
+- Cucumber slice
 - Ranch
 - Radish
 - Pepper
