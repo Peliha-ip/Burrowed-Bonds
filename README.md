@@ -35,6 +35,10 @@ Mobs:
 - Cluckshroom
 - Blighted
 - Red panda
+- Skunk
+- Squirrel
+- Hamster
+- Raccoon
 
 Blocks:
 - Termite mound
@@ -107,6 +111,9 @@ Items:
 - Quake rod
 - Earthquake charge
 - Crystallized honey
+- Baseball bat
+- Baseball ball
+- Baseball glove
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -140,6 +147,10 @@ Items:
 - Mole spawn egg
 - Blighted spawn egg
 - Red panda spawn egg
+- Raccoon spawn egg
+- Hamster spawn egg
+- Skunk spawn egg
+- Squirrel spawn egg
 
 Food:
 - Lettuce
@@ -178,6 +189,9 @@ Structure:
 Biome:
 - Volcano
 
+Effect:
+- Stinky
+
 Features:
 - Termite mounds generate in savannas and jungles
 - Anthills generate anywhere but cold or ocean biomes
@@ -212,6 +226,9 @@ Features:
 - Spike blocks are similar to pointed dripstone. Only difference, they can retract with a redstone input.
 - Sculk jaws traps anything that walks on it and damages it over time. Jumping repetitively will cause the jaw to let go and give whatever was trapped in it to escape.
 - Axolotls can now be green.
+- If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs which actually are attracted to whatever has the stinky effect. The stronger the effect the bigger the radius is. Phantoms also spawn if the player has the stinky effect regardless of how much they slept.
+- Hamsters are found in forests, flower forests, birch forests, plains, meadows, cherry groves, and villages.
+- The baseball bat is a great mid-game melee weapon and a great ranged weapon when accompanied with the baseball ball and the baseball glove. Having a baseball glove equipped makes the ball take less time to return.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
@@ -230,3 +247,4 @@ Advancements:
 - Do the Earthquake (Use an earthquake charge to trigger an earthquake)
 - Disturb a Nest of Wasp For No Good Reason (Aggravate hornets by hitting their nest)
 - We Miss You (rename a cat "Miss")
+- Pepe le Pew (get sprayed by a skunk)
