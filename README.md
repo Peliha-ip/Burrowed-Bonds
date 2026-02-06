@@ -85,6 +85,8 @@ Blocks:
 - Garlic crop
 - Basil crop
 - Turnip crop
+- Spike block
+- Sculk jaw
 
 Items:
 - Bug whistle
@@ -208,6 +210,8 @@ Features:
 - When a blighted attacks a player or a villager, poison is given to them.
 - Renaming a hedgehog "Sonic" which will change its texture to a character that needs no introduction.
 - Renaming a ferret "Blarret" will change its texture to match the character from My Singing Monsters.
+- Spike blocks are similar to pointed dripstone. Only difference, they can retract with a redstone input.
+- Sculk jaws traps anything that walks on it and damages it over time. Jumping repetitively will cause the jaw to let go and give whatever was trapped in it to escape.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
