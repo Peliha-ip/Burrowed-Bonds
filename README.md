@@ -227,7 +227,7 @@ Features:
 - When a blighted attacks a player or a villager, poison is given to them.
 - Renaming a hedgehog "Sonic" which will change its texture to a character that needs no introduction.
 - Renaming a ferret "Blarret" will change its texture to match the character from My Singing Monsters.
-- Spike blocks are similar to pointed dripstone. Only difference, they can retract with a redstone input.
+- Spike blocks are similar to pointed dripstone. Only difference, they can retract or erupt with a redstone input.
 - Sculk jaws traps anything that walks on it and damages it over time. Jumping repetitively will cause the jaw to let go and give whatever was trapped in it to escape.
 - Axolotls can now be green.
 - If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs which actually are attracted to whatever has the stinky effect. The stronger the effect the bigger the radius is. Phantoms also spawn if the player has the stinky effect regardless of how much they slept.
@@ -257,3 +257,4 @@ Advancements:
 - Pepe le Pew (get sprayed by a skunk)
 - Meep Meep (Have a renamed coyote with "Wiles E Coyote" chase a renamed roadrunner with "Meep Meep")
 - Acme (Get blasted near a roadrunner)
+- Raise Up Your Bat (Use a baseball bat to attack a mob)
