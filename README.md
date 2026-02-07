@@ -257,5 +257,5 @@ Advancements:
 - We Miss You (rename a cat "Miss")
 - Pepe le Pew (get sprayed by a skunk)
 - Meep Meep (Have a renamed coyote with "Wiles E Coyote" chase a renamed roadrunner with "Meep Meep")
-- Acme (Get blasted near a roadrunner)
+- Acme Corporation (Get blasted near a roadrunner)
 - Raise Up Your Bat (Use a baseball bat to attack a mob)
