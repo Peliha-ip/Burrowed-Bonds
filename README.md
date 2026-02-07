@@ -236,6 +236,7 @@ Features:
 - Renaming a coyote "Wiles E Coyote" will change its texture to the famous Looney Tunes character.
 - Renaming a roadrunner "Meep Meep" will change its texture to match the Looney Tunes character and also make them absurdly fast.
 - Coyotes hunt roadrunners.
+- Having the stinky effect will immediately get the warden angry.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
