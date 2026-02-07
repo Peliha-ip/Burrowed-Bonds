@@ -39,6 +39,8 @@ Mobs:
 - Squirrel
 - Hamster
 - Raccoon
+- Coyote
+- Roadrunner
 
 Blocks:
 - Termite mound
@@ -151,6 +153,8 @@ Items:
 - Hamster spawn egg
 - Skunk spawn egg
 - Squirrel spawn egg
+- Roadrunner spawn egg
+- Coyote spawn egg
 
 Food:
 - Lettuce
@@ -229,6 +233,9 @@ Features:
 - If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs which actually are attracted to whatever has the stinky effect. The stronger the effect the bigger the radius is. Phantoms also spawn if the player has the stinky effect regardless of how much they slept.
 - Hamsters are found in forests, flower forests, birch forests, plains, meadows, cherry groves, and villages.
 - The baseball bat is a great mid-game melee weapon and a great ranged weapon when accompanied with the baseball ball and the baseball glove. Having a baseball glove equipped makes the ball take less time to return.
+- Renaming a coyote "Wiles E Coyote" will change its texture to the famous Looney Tunes character.
+- Renaming a roadrunner "Meep Meep" will change its texture to match the Looney Tunes character and also make them absurdly fast.
+- Coyotes hunt roadrunners.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
@@ -248,3 +255,5 @@ Advancements:
 - Disturb a Nest of Wasp For No Good Reason (Aggravate hornets by hitting their nest)
 - We Miss You (rename a cat "Miss")
 - Pepe le Pew (get sprayed by a skunk)
+- Meep Meep (Have a renamed coyote with "Wiles E Coyote" chase a renamed roadrunner with "Meep Meep")
+- Acme (Get blasted near a roadrunner)
