@@ -98,6 +98,7 @@ Blocks:
 - Blue mushroom
 - Purple mushroom block
 - Blue mushroom block
+- Soccer net
 
 Items:
 - Bug whistle
@@ -118,6 +119,7 @@ Items:
 - Baseball ball
 - Baseball glove
 - Porcupine spine
+- Soccer ball
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -192,6 +194,7 @@ Structure:
 - Brick pyramid
 - Jungle and swamp villages
 - Volcano
+- Soccer fields
 
 Biome:
 - Volcano
@@ -240,6 +243,12 @@ Features:
 - Renaming a roadrunner "Meep Meep" will change its texture to match the Looney Tunes character and also make them absurdly fast.
 - Coyotes hunt roadrunners.
 - Having the stinky effect will immediately get the warden angry. So, going to the deep dark with the stinky effect is a death sentence.
+- Kicking a soccer ball into a soccer net in a soccer field can grant the player decent loot.
+- Renaming an echidna "Knuckles" or "Peckidna" will change the model to match either characters.
+- Renaming a porcupine "Reedling" will change its model to match the character from My Singing Monsters.
+- Renaming a fox "Tails" or "Foxy" will change its model to match either characters.
+- Renaming a rabbit "Bonnie" or "Bugs Bunny" will change its texture to match either characters.
+- Renaming a chicken "Chica" will match its texture to match the animatronic from Five Nights at Freddy's.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
@@ -262,3 +271,4 @@ Advancements:
 - Meep Meep (Have a renamed coyote with "Wiles E Coyote" chase a renamed roadrunner with "Meep Meep")
 - Acme Corporation (Get blasted near a roadrunner)
 - Raise Up Your Bat (Use a baseball bat to attack a mob)
+- Power of the Foot (Kick a soccer ball on a mob)
