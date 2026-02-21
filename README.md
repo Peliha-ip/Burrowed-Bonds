@@ -42,6 +42,7 @@ Mobs:
 - Coyote
 - Roadrunner
 - Porcupine
+- Toucan
 
 Blocks:
 - Termite mound
@@ -99,6 +100,7 @@ Blocks:
 - Purple mushroom block
 - Blue mushroom block
 - Soccer net
+- Banana bush
 
 Items:
 - Bug whistle
@@ -160,6 +162,7 @@ Items:
 - Roadrunner spawn egg
 - Coyote spawn egg
 - Porcupine spawn egg
+- Toucan spawn egg
 
 Food:
 - Lettuce
@@ -184,6 +187,7 @@ Food:
 - Baked turnip
 - Pickled turnip
 - Turnip stew
+- Banana
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
@@ -249,6 +253,7 @@ Features:
 - Renaming a fox "Tails" or "Foxy" will change its model to match either characters.
 - Renaming a rabbit "Bonnie" or "Bugs Bunny" will change its texture to match either characters.
 - Renaming a chicken "Chica" will match its texture to match the animatronic from Five Nights at Freddy's.
+- Renaming a toucan "Sam" will change its texture to match the mascot of the famous cereal "Froot Loops".
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
