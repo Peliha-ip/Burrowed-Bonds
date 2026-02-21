@@ -41,6 +41,7 @@ Mobs:
 - Raccoon
 - Coyote
 - Roadrunner
+- Porcupine
 
 Blocks:
 - Termite mound
@@ -116,6 +117,7 @@ Items:
 - Baseball bat
 - Baseball ball
 - Baseball glove
+- Porcupine spine
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -155,6 +157,7 @@ Items:
 - Squirrel spawn egg
 - Roadrunner spawn egg
 - Coyote spawn egg
+- Porcupine spawn egg
 
 Food:
 - Lettuce
