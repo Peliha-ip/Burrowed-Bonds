@@ -43,6 +43,7 @@ Mobs:
 - Roadrunner
 - Porcupine
 - Toucan
+- Monkey
 
 Blocks:
 - Termite mound
@@ -163,6 +164,7 @@ Items:
 - Coyote spawn egg
 - Porcupine spawn egg
 - Toucan spawn egg
+- Monkey spawn egg
 
 Food:
 - Lettuce
