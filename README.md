@@ -118,7 +118,7 @@ Items:
 - Baseball bat
 - Baseball ball
 - Baseball glove
-- Porcupine spine
+- Porcupine quill
 - Soccer ball
 - Anteater spawn egg
 - Sloth spawn egg
@@ -272,3 +272,5 @@ Advancements:
 - Acme Corporation (Get blasted near a roadrunner)
 - Raise Up Your Bat (Use a baseball bat to attack a mob)
 - Power of the Foot (Kick a soccer ball on a mob)
+- Quill You Stop (Have you or a tamed mob attacked by a porcupine)
+- Goal Getter (Score your first goal)
