@@ -281,3 +281,4 @@ Advancements:
 - Power of the Foot (Kick a soccer ball on a mob)
 - Quill You Stop (Have you or a tamed mob attacked by a porcupine)
 - Goal Getter (Score your first goal)
+- There's a Zombie On Your Lawn (Invite a zombie cop to your house)
