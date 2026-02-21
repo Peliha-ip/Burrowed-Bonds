@@ -194,7 +194,7 @@ Structure:
 - Brick pyramid
 - Jungle and swamp villages
 - Volcano
-- Soccer fields
+- Soccer field
 
 Biome:
 - Volcano
