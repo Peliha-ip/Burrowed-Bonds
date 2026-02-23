@@ -44,6 +44,8 @@ Mobs:
 - Porcupine
 - Toucan
 - Monkey
+- Turkey
+- Chipmunk
 
 Blocks:
 - Termite mound
@@ -165,6 +167,8 @@ Items:
 - Porcupine spawn egg
 - Toucan spawn egg
 - Monkey spawn egg
+- Turkey spawn egg
+- Chipmunk spawn egg
 
 Food:
 - Lettuce
@@ -190,6 +194,8 @@ Food:
 - Pickled turnip
 - Turnip stew
 - Banana
+- Raw turkey
+- Cooked turkey
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
