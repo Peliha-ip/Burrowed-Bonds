@@ -72,7 +72,6 @@ Blocks:
 - Buttercup
 - Paeonia
 - Rose
-- Cerulean vine
 - Echidna egg
 - Snake egg
 - Ground sloth egg
