@@ -222,8 +222,8 @@ Features:
 - A crowbar can break every type of door, including iron doors, the default weapon of the zombie cop
 - The battering ram is the backup weapon of the zombie cop when the crowbar doesn't cut it like tougher blocks such as obsidian (it doesn't break blocks like command blocks, bedrock, end portal frames, barrier blocks, and reinforced deepslate)
 - Armadillos now attack creakings and spread resin
-- Sniffers now dig up more plants
-- Sloths with occasionally descend from trees to defecate, speeding up crop growth if a sloth is nearby
+- Sniffers now dig up roses, cyan flowers, and paeonias.
+- Sloths occasionally descend from trees to defecate, speeding up crop growth if a sloth is nearby
 - Zombie wolves always spawn with navy wolf armor
 - Renaming a ground sloth "Sid" will change the model to the famous character from Ice Age
 - Iron golems hesitate to attack zombie cops
