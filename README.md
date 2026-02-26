@@ -111,6 +111,8 @@ Items:
 - Charango
 - Crowbar
 - Battering ram
+- Baobab boat
+- Baobab boat with chest
 - Ground sloth husk
 - Ground sloth DNA
 - Glyptodont husk
