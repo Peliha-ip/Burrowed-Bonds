@@ -216,11 +216,11 @@ Effect:
 - Stinky
 
 Features:
-- Termite mounds generate in savannas and jungles
+- Termite mounds are generated in savannas and jungles
 - Anthills generate anywhere but cold or ocean biomes
 - The bug whistle makes the armadillo mine blocks like stone, gravel, sand, or dirt when held or put in an item frame
 - A crowbar can break every type of door, including iron doors, the default weapon of the zombie cop
-- The battering ram is the backup weapon of the zombie cop when the crowbar doesn't cut it like tougher blocks such as obsidian (it doesn't break blocks like command blocks, bedrock, end portal frames, barrier blocks, and reinforced deepslate)
+- The battering ram is the backup weapon of the zombie cop when the crowbar doesn't cut it, like tougher blocks such as obsidian (it doesn't break blocks like command blocks, bedrock, end portal frames, barrier blocks, and reinforced deepslate)
 - Armadillos now attack creakings and spread resin
 - Sniffers now dig up roses, cyan flowers, and paeonias.
 - Sloths occasionally descend from trees to defecate, speeding up crop growth if a sloth is nearby
@@ -233,34 +233,34 @@ Features:
 - Dogs spawn in villages
 - Torchflowers now emit light
 - Renaming a cat "Miss" will change its texture
-- Vultures will circle around where the player last died.
-- Mooblooms change appearances according to what flower is applied on it. They will also produce suspicious stew of the corresponding flower without having to feed it constantly.
-- Mooblooms also are best friends with bees.
+- Vultures will circle where the player last died.
+- Mooblooms change appearances according to which flower is applied to it. They will also produce a suspicious stew of the corresponding flower without having to feed it constantly.
+- Mooblooms are also best friends with bees.
 - The glare will place torches for you if it growls over dark places.
-- The quake is found in the fault nest and can drop a quake rod. Putting a quake rod in a crafting table will grant the player 2 earthquake charges, using an earthquake charge will cause an earthquake. The earthquake will just shake things up, it won't destroy builds or the terrain.
+- The quake is found in the fault nest and can drop a quake rod. Putting a quake rod in a crafting table will grant the player 2 earthquake charges. Using an earthquake charge will cause an earthquake. The earthquake will just shake things up; it won't destroy buildings or the terrain.
 - Hornets attack bees like zombies attack villagers. If you have a bee farm, it should be a great idea to protect your bees and take down a hornet if you see one.
 - Snakes and mongooses are enemies and will fight.
 - If a hornet attacks a bee and there are enough bees nearby, the bees will counterattack the hornet with their bee ball technique.
 - Renaming a warthog "Pumba" or "Pumbaa" will change its texture to match the famous character from The Lion King.
 - Pigs can occasionally be covered in mud.
 - When a blighted attacks a player or a villager, poison is given to them.
-- Renaming a hedgehog "Sonic" which will change its texture to a character that needs no introduction.
+- Renaming a hedgehog "Sonic", which will change its texture to a character that needs no introduction.
 - Renaming a ferret "Blarret" will change its texture to match the character from My Singing Monsters.
-- Spike blocks are similar to pointed dripstone. Only difference, they can retract or erupt with a redstone input.
-- Sculk jaws traps anything that walks on it and damages it over time. Jumping repetitively will cause the jaw to let go and give whatever was trapped in it to escape.
+- Spike blocks are similar to pointed dripstone. The only difference, they can retract or erupt with a redstone input.
+- Sculk jaws trap anything that walks on it and damage it over time. Jumping repetitively will cause the jaw to let go and give whatever was trapped in it to escape.
 - Axolotls can now be green.
-- If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs which actually are attracted to whatever has the stinky effect. The stronger the effect the bigger the radius is. Phantoms also spawn if the player has the stinky effect regardless of how much they slept.
+- If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs which actually are attracted to whatever has the stinky effect. The stronger the effect, the bigger the radius is. Phantoms also spawn if the player has the stinky effect, regardless of how much they slept.
 - Hamsters are found in forests, flower forests, birch forests, plains, meadows, cherry groves, and villages.
-- The baseball bat is a great mid-game melee weapon and a great ranged weapon when accompanied with the baseball ball and the baseball glove. Having a baseball glove equipped makes the ball take less time to return.
+- The baseball bat is a great mid-game melee weapon and a great ranged weapon when accompanied by the baseball ball and the baseball glove. Having a baseball glove equipped makes the ball take less time to return.
 - Renaming a coyote "Wiles E Coyote" will change its texture to the famous Looney Tunes character.
-- Renaming a roadrunner "Meep Meep" will change its texture to match the Looney Tunes character and also make them absurdly fast.
+- Renaming a roadrunner "Meep Meep" will change its texture to match the Looney Tunes character and also make it absurdly fast.
 - Coyotes hunt roadrunners.
 - Having the stinky effect will immediately get the warden angry. So, going to the deep dark with the stinky effect is a death sentence.
 - Kicking a soccer ball into a soccer net in a soccer field can grant the player decent loot.
-- Renaming an echidna "Knuckles" or "Peckidna" will change the model to match either characters.
+- Renaming an echidna "Knuckles" or "Peckidna" will change the model to match either character.
 - Renaming a porcupine "Reedling" will change its model to match the character from My Singing Monsters.
-- Renaming a fox "Tails" or "Foxy" will change its model to match either characters.
-- Renaming a rabbit "Bonnie" or "Bugs Bunny" will change its texture to match either characters.
+- Renaming a fox "Tails" or "Foxy" will change its model to match either character.
+- Renaming a rabbit "Bonnie" or "Bugs Bunny" will change its texture to match either character.
 - Renaming a chicken "Chica" will match its texture to match the animatronic from Five Nights at Freddy's.
 - Renaming a toucan "Sam" will change its texture to match the mascot of the famous cereal "Froot Loops".
 
