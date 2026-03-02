@@ -139,7 +139,7 @@ Items:
 - Glare spawn egg
 - Echidna spawn egg
 - Snake spawn egg
-- Glyptodon spawn egg
+- Glyptodont spawn egg
 - Quake spawn egg
 - Hornet spawn egg
 - Mongoose spawn egg
@@ -292,3 +292,6 @@ Advancements:
 - Quill You Stop (Have you or a tamed mob attacked by a porcupine)
 - Goal Getter (Score your first goal)
 - There's a Zombie On Your Lawn (Invite a zombie cop to your house)
+
+Tag:
+- Xenarthra: armadillo, anteater, sloth, ground sloth, glyptodont
