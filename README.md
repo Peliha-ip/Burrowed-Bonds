@@ -47,6 +47,8 @@ Mobs:
 - Turkey
 - Chipmunk
 - Diadectes
+- Jackalope
+- Pangolin
 
 Blocks:
 - Termite mound
@@ -105,6 +107,7 @@ Blocks:
 - Blue mushroom block
 - Soccer net
 - Banana bush
+- Landbound totem
 
 Items:
 - Bug whistle
@@ -128,6 +131,7 @@ Items:
 - Baseball glove
 - Porcupine quill
 - Soccer ball
+- Diadectes scales
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -173,6 +177,8 @@ Items:
 - Turkey spawn egg
 - Chipmunk spawn egg
 - Diadectes spawn egg
+- Jackalope spawn egg
+- Pangolin spawn egg
 
 Food:
 - Lettuce
@@ -266,6 +272,10 @@ Features:
 - Renaming a rabbit "Bonnie" or "Bugs Bunny" will change its texture to match either character.
 - Renaming a chicken "Chica" will match its texture to match the animatronic from Five Nights at Freddy's.
 - Renaming a toucan "Sam" will change its texture to match the mascot of the famous cereal "Froot Loops".
+- Jackalopes can be tamed with carrots. Having a jackalope is very helpful when dealing with hornets.
+- Baseball bats can be enchanted with banes of arthropods.
+- Diadectes can convert veggies into diadectes scales. These scales can be used to create landbound totems.
+- Landbound totems make crops grow faster, grass spread faster, saplings grow faster, and disable hostile mobs in a radius of 20 blocks.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
@@ -292,6 +302,7 @@ Advancements:
 - Quill You Stop (Have you or a tamed mob attacked by a porcupine)
 - Goal Getter (Score your first goal)
 - There's a Zombie On Your Lawn (Invite a zombie cop to your house)
+- Off My Turf (Place a landbound totem)
 
 Tag:
 - Xenarthra: armadillo, anteater, sloth, ground sloth, glyptodont
