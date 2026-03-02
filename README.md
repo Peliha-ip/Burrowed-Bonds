@@ -46,6 +46,7 @@ Mobs:
 - Monkey
 - Turkey
 - Chipmunk
+- Diadectes
 
 Blocks:
 - Termite mound
@@ -76,6 +77,7 @@ Blocks:
 - Snake egg
 - Ground sloth egg
 - Glyptodont egg
+- Diadectes egg
 - Glyptodont reviver
 - Wax block
 - Cabbage crop
@@ -170,6 +172,7 @@ Items:
 - Monkey spawn egg
 - Turkey spawn egg
 - Chipmunk spawn egg
+- Diadectes spawn egg
 
 Food:
 - Lettuce
