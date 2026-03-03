@@ -107,6 +107,7 @@ Blocks:
 - Blue mushroom block
 - Soccer net
 - Banana bush
+- Diadectes scale block
 - Landbound totem
 
 Items:
