@@ -224,6 +224,9 @@ Biome:
 Effect:
 - Stinky
 
+Enchantment:
+- Home Run
+
 Features:
 - Termite mounds are generated in savannas and jungles
 - Anthills generate anywhere but cold or ocean biomes
@@ -273,9 +276,10 @@ Features:
 - Renaming a chicken "Chica" will match its texture to match the animatronic from Five Nights at Freddy's.
 - Renaming a toucan "Sam" will change its texture to match the mascot of the famous cereal "Froot Loops".
 - Jackalopes can be tamed with carrots. Having a jackalope is very helpful when dealing with hornets.
-- Baseball bats can be enchanted with banes of arthropods.
+- Baseball bats can be enchanted with bane of arthropods.
 - Diadectes can convert veggies into diadectes scales. These scales can be used to create landbound totems.
 - Landbound totems make crops grow faster, grass spread faster, saplings grow faster, and disable hostile mobs in a radius of 20 blocks.
+- Baseball bats can be enchanted with Home Run from level 1 to 5. Home Run increases the damage from the baseball projectile.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
