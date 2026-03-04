@@ -49,6 +49,8 @@ Mobs:
 - Diadectes
 - Jackalope
 - Pangolin
+- Binturong
+- Kangaroo
 
 Blocks:
 - Termite mound
@@ -133,6 +135,9 @@ Items:
 - Porcupine quill
 - Soccer ball
 - Diadectes scales
+- Pangolin scutes
+- Outback boomerang
+- Reinforced shield
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -180,6 +185,8 @@ Items:
 - Diadectes spawn egg
 - Jackalope spawn egg
 - Pangolin spawn egg
+- Binturong spawn egg
+- Kangaroo spawn egg
 
 Food:
 - Lettuce
@@ -281,6 +288,9 @@ Features:
 - Diadectes can convert veggies into diadectes scales. These scales can be used to create landbound totems.
 - Landbound totems make crops grow faster, grass spread faster, saplings grow faster, and disable hostile mobs in a radius of 20 blocks.
 - Baseball bats can be enchanted with Home Run from level 1 to 5. Home Run increases the damage from the baseball projectile.
+- Kangaroos can one-shot-kill by kicking or force drowning on any mob or player who attacked them.
+- Since binturongs have a popcorn scent around them, they can calm nearby neutral mobs and also reduce the duration of the stinky effect.
+- Outback boomerangs can break plants when thrown. Because they're boomerangs, they always return.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
