@@ -111,6 +111,27 @@ Blocks:
 - Banana bush
 - Diadectes scale block
 - Landbound totem
+- Pangolin scutes block
+- Pangolin scutes block slab
+- Pangolin scutes block stairs
+- Pangolin scutes block wall
+- Pangolin scutes block button
+- Polished pangolin scutes block
+- Polished pangolin scutes block slab
+- Polished pangolin scutes block stairs
+- Polished pangolin scutes block wall
+- Smooth pangolin scutes block
+- Smooth pangolin scutes block slab
+- Smooth pangolin scutes block stairs
+- Smooth pangolin scutes block wall
+- Pangolin scutes block bricks
+- Pangolin scutes block bricks slab
+- Pangolin scutes block bricks stairs
+- Pangolin scutes block bricks wall
+- Pangolin scutes block tiles
+- Pangolin scutes block tiles slab
+- Pangolin scutes block tiles stairs
+- Pangolin scutes block tiles wall
 
 Items:
 - Bug whistle
@@ -291,6 +312,8 @@ Features:
 - Kangaroos can one-shot-kill by kicking or force drowning on any mob or player who attacked them.
 - Since binturongs have a popcorn scent around them, they can calm nearby neutral mobs and also reduce the duration of the stinky effect.
 - Outback boomerangs can break plants when thrown. Because they're boomerangs, they always return.
+- Pangolins can drop scutes every 5-10 minutes if near a termite mound or an anthill. They can also drop scutes everytime they kill one hornet or silverfish.
+- Renaming a pangolin "Strombonin" will change its model to make it look like the Cold Island mythical from My Singing Monsters while also giving it a conch.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
