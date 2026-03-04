@@ -110,6 +110,7 @@ Blocks:
 - Soccer net
 - Banana bush
 - Diadectes scale block
+- Cut Diadectes scale block
 - Landbound totem
 - Pangolin scutes block
 - Pangolin scutes block slab
@@ -290,7 +291,7 @@ Features:
 - Spike blocks are similar to pointed dripstone. The only difference, they can retract or erupt with a redstone input.
 - Sculk jaws trap anything that walks on it and damage it over time. Jumping repetitively will cause the jaw to let go and give whatever was trapped in it to escape.
 - Axolotls can now be green.
-- If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs which actually are attracted to whatever has the stinky effect. The stronger the effect, the bigger the radius is. Phantoms also spawn if the player has the stinky effect, regardless of how much they slept.
+- If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs, which are actually attracted to whatever has the stinky effect. The stronger the effect, the bigger the radius is. Phantoms also spawn if the player has the stinky effect, regardless of how much they slept.
 - Hamsters are found in forests, flower forests, birch forests, plains, meadows, cherry groves, and villages.
 - The baseball bat is a great mid-game melee weapon and a great ranged weapon when accompanied by the baseball ball and the baseball glove. Having a baseball glove equipped makes the ball take less time to return.
 - Renaming a coyote "Wiles E Coyote" will change its texture to the famous Looney Tunes character.
@@ -304,7 +305,7 @@ Features:
 - Renaming a rabbit "Bonnie" or "Bugs Bunny" will change its texture to match either character.
 - Renaming a chicken "Chica" will match its texture to match the animatronic from Five Nights at Freddy's.
 - Renaming a toucan "Sam" will change its texture to match the mascot of the famous cereal "Froot Loops".
-- Jackalopes can be tamed with carrots. Having a jackalope is very helpful when dealing with hornets.
+- Jackalopes can be tamed with any vegetable, preferably green leaves. Having a jackalope is very helpful when dealing with hornets.
 - Baseball bats can be enchanted with bane of arthropods.
 - Diadectes can convert veggies into diadectes scales. These scales can be used to create landbound totems.
 - Landbound totems make crops grow faster, grass spread faster, saplings grow faster, and disable hostile mobs in a radius of 20 blocks.
@@ -312,7 +313,7 @@ Features:
 - Kangaroos can one-shot-kill by kicking or force drowning on any mob or player who attacked them.
 - Since binturongs have a popcorn scent around them, they can calm nearby neutral mobs and also reduce the duration of the stinky effect.
 - Outback boomerangs can break plants when thrown. Because they're boomerangs, they always return.
-- Pangolins can drop scutes every 5-10 minutes if near a termite mound or an anthill. They can also drop scutes everytime they kill one hornet or silverfish.
+- Pangolins can drop scutes every 5-10 minutes if near a termite mound or an anthill. They can also drop scutes every time they kill one hornet, spider, cave spider, endermite, or silverfish. Pangolin scutes can be crafted into blocks that practically act like a biological version of stone.
 - Renaming a pangolin "Strombonin" will change its model to make it look like the Cold Island mythical from My Singing Monsters while also giving it a conch.
 
 Advancements:
