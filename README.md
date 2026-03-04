@@ -315,6 +315,7 @@ Features:
 - Outback boomerangs can break plants when thrown. Because they're boomerangs, they always return.
 - Pangolins can drop scutes every 5-10 minutes if near a termite mound or an anthill. They can also drop scutes every time they kill one hornet, spider, cave spider, endermite, or silverfish. Pangolin scutes can be crafted into blocks that practically act like a biological version of stone.
 - Renaming a pangolin "Strombonin" will change its model to make it look like the Cold Island mythical from My Singing Monsters while also giving it a conch.
+- Sheep near jackalopes would tend to jump more often and sometimes, higher.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
@@ -342,6 +343,8 @@ Advancements:
 - Goal Getter (Score your first goal)
 - There's a Zombie On Your Lawn (Invite a zombie cop to your house)
 - Off My Turf (Place a landbound totem)
+- What's Up, Doc (Tame a jackalope)
+- Boundin (Get a jackalope near a sheared sheep)
 
 Tag:
 - Xenarthra: armadillo, anteater, sloth, ground sloth, glyptodont
