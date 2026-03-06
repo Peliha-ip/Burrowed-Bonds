@@ -51,6 +51,7 @@ Mobs:
 - Pangolin
 - Binturong
 - Kangaroo
+- Aardvark
 
 Blocks:
 - Termite mound
@@ -209,6 +210,7 @@ Items:
 - Pangolin spawn egg
 - Binturong spawn egg
 - Kangaroo spawn egg
+- Aardvark spawn egg
 
 Food:
 - Lettuce
