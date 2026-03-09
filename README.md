@@ -52,6 +52,8 @@ Mobs:
 - Binturong
 - Kangaroo
 - Aardvark
+- Ladybug
+- Butterfly
 
 Blocks:
 - Termite mound
@@ -210,6 +212,8 @@ Items:
 - Binturong spawn egg
 - Kangaroo spawn egg
 - Aardvark spawn egg
+- Ladybug spawn egg
+- Butterfly spawn egg
 
 Food:
 - Lettuce
