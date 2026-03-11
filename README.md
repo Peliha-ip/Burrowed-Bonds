@@ -139,7 +139,6 @@ Blocks:
 - Pangolin scutes block tiles stairs
 - Pangolin scutes block tiles wall
 - Chrysalis
-- Mechanical bull
 
 Items:
 - Bug whistle
