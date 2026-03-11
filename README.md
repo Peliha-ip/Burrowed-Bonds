@@ -54,6 +54,8 @@ Mobs:
 - Aardvark
 - Ladybug
 - Butterfly
+- Caterpillar
+- Beetle
 
 Blocks:
 - Termite mound
@@ -135,6 +137,8 @@ Blocks:
 - Pangolin scutes block tiles slab
 - Pangolin scutes block tiles stairs
 - Pangolin scutes block tiles wall
+- Chrysalis
+- Mechanical bull
 
 Items:
 - Bug whistle
@@ -162,6 +166,7 @@ Items:
 - Pangolin scutes
 - Outback boomerang
 - Reinforced shield
+- Lasso
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -214,6 +219,8 @@ Items:
 - Aardvark spawn egg
 - Ladybug spawn egg
 - Butterfly spawn egg
+- Caterpillar spawn egg
+- Beetle spawn egg
 
 Food:
 - Lettuce
@@ -349,6 +356,9 @@ Advancements:
 - Off My Turf (Place a landbound totem)
 - What's Up, Doc (Tame a jackalope)
 - Boundin (Get a jackalope near a sheared sheep)
+- Yee-Haw (Craft a lasso)
+- Cotton Eye Joe (Use the lasso while riding a horse)
+- That's Frank (Use the mechanical bull)
 
 Tag:
 - Xenarthra: armadillo, anteater, sloth, ground sloth, glyptodont
