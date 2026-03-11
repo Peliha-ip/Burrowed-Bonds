@@ -330,6 +330,7 @@ Features:
 - Pangolins can drop scutes every 5-10 minutes if near a termite mound or an anthill. They can also drop scutes every time they kill one hornet, spider, cave spider, endermite, or silverfish. Pangolin scutes can be crafted into blocks that practically act like a biological version of stone.
 - Renaming a pangolin "Strombonin" will change its model to make it look like the Cold Island mythical from My Singing Monsters while also giving it a conch.
 - Sheep near jackalopes would tend to jump more often and sometimes, higher.
+- Cowboys attack hostile mobs on sight.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
