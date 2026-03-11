@@ -56,6 +56,7 @@ Mobs:
 - Butterfly
 - Caterpillar
 - Beetle
+- Cowboy
 
 Blocks:
 - Termite mound
@@ -221,6 +222,7 @@ Items:
 - Butterfly spawn egg
 - Caterpillar spawn egg
 - Beetle spawn egg
+- Cowboy spawn egg
 
 Food:
 - Lettuce
@@ -259,6 +261,7 @@ Structure:
 - Jungle and swamp villages
 - Volcano
 - Soccer field
+- Ranch
 
 Biome:
 - Volcano
@@ -358,7 +361,6 @@ Advancements:
 - Boundin (Get a jackalope near a sheared sheep)
 - Yee-Haw (Craft a lasso)
 - Cotton Eye Joe (Use the lasso while riding a horse)
-- That's Frank (Use the mechanical bull)
 
 Tag:
 - Xenarthra: armadillo, anteater, sloth, ground sloth, glyptodont
