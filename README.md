@@ -58,6 +58,7 @@ Mobs:
 - Beetle
 - Cowboy
 - Woodpecker
+- Cameleon
 
 Blocks:
 - Termite mound
@@ -224,6 +225,7 @@ Items:
 - Beetle spawn egg
 - Cowboy spawn egg
 - Woodpecker spawn egg
+- Cameleon spawn egg
 
 Food:
 - Lettuce
@@ -333,6 +335,7 @@ Features:
 - Sheep near jackalopes would tend to jump more often and sometimes, higher.
 - Cowboys attack hostile mobs on sight.
 - Woodpeckers drum on wooden, copper, and iron-related blocks to communicate their territory. They do forage on trees for food.
+- Cameleons can change their color to communicate their feelings.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
