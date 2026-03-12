@@ -57,6 +57,7 @@ Mobs:
 - Caterpillar
 - Beetle
 - Cowboy
+- Woodpecker
 
 Blocks:
 - Termite mound
@@ -222,6 +223,7 @@ Items:
 - Caterpillar spawn egg
 - Beetle spawn egg
 - Cowboy spawn egg
+- Woodpecker spawn egg
 
 Food:
 - Lettuce
@@ -330,6 +332,7 @@ Features:
 - Renaming a pangolin "Strombonin" will change its model to make it look like the Cold Island mythical from My Singing Monsters while also giving it a conch.
 - Sheep near jackalopes would tend to jump more often and sometimes, higher.
 - Cowboys attack hostile mobs on sight.
+- Woodpeckers drum on wooden, copper, and iron-related blocks to communicate their territory. They do forage on trees for food.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
