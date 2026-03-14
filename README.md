@@ -109,6 +109,7 @@ Blocks:
 - Garlic crop
 - Basil crop
 - Turnip crop
+- Leek crop
 - Spike block
 - Purple mushroom
 - Blue mushroom
@@ -253,6 +254,7 @@ Food:
 - Banana
 - Raw turkey
 - Cooked turkey
+- Leek
 
 Structure:
 - Zombie Justice Complex (Police station, jail, court, and prison)
@@ -359,7 +361,7 @@ Advancements:
 - Acme Corporation (Get blasted near a roadrunner)
 - Raise Up Your Bat (Use a baseball bat to attack a mob)
 - Power of the Foot (Kick a soccer ball on a mob)
-- Quill You Stop (Have you or a tamed mob attacked by a porcupine)
+- Quill You Stop (Have you or a tamed mob get attacked by a porcupine)
 - Goal Getter (Score your first goal)
 - There's a Zombie On Your Lawn (Invite a zombie cop to your house)
 - Off My Turf (Place a landbound totem)
@@ -367,6 +369,7 @@ Advancements:
 - Boundin (Get a jackalope near a sheared sheep)
 - Yee-Haw (Craft a lasso)
 - Cotton Eye Joe (Use the lasso while riding a horse)
+- Ievan Polkka (Hit a mob with a leek)
 
 Tag:
 - Xenarthra: armadillo, anteater, sloth, ground sloth, glyptodont
