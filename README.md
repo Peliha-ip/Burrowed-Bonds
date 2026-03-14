@@ -299,8 +299,8 @@ Features:
 - Mooblooms change appearances according to which flower is applied to it. They will also produce a suspicious stew of the corresponding flower without having to feed it constantly.
 - Mooblooms are also best friends with bees.
 - The glare will place torches for you if it growls over dark places.
-- The quake is found in the fault nest and can drop a quake rod. Putting a quake rod in a crafting table will grant the player 2 earthquake charges. Using an earthquake charge will cause an earthquake. The earthquake will just shake things up; it won't destroy buildings or the terrain.
-- Hornets attack bees like zombies attack villagers. If you have a bee farm, it should be a great idea to protect your bees and take down a hornet if you see one.
+- The quake is found in the fault nest and can drop a quake rod. Putting a quake rod in a crafting table will grant the player 2 earthquake charges. Using an earthquake charge will cause an earthquake. The earthquake will shake things up; it won't destroy buildings or the terrain.
+- Hornets attack bees like zombies attack villagers. If you have a bee farm, it's a good idea to protect your bees and remove a hornet if you see one.
 - Snakes and mongooses are enemies and will fight.
 - If a hornet attacks a bee and there are enough bees nearby, the bees will counterattack the hornet with their bee ball technique.
 - Renaming a warthog "Pumba" or "Pumbaa" will change its texture to match the famous character from The Lion King.
@@ -308,12 +308,12 @@ Features:
 - When a blighted attacks a player or a villager, poison is given to them.
 - Renaming a hedgehog "Sonic", which will change its texture to a character that needs no introduction.
 - Renaming a ferret "Blarret" will change its texture to match the character from My Singing Monsters.
-- Spike blocks are similar to pointed dripstone. The only difference, they can retract or erupt with a redstone input.
+- Spike blocks are similar to pointed dripstone. The only difference is that they can retract or erupt when triggered by redstone.
 - Axolotls can now be green.
-- If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs, which are actually attracted to whatever has the stinky effect. The stronger the effect, the bigger the radius is. Phantoms also spawn if the player has the stinky effect, regardless of how much they slept.
+- If a skunk is attacked, whatever attacked them will get sprayed on and get the stinky effect. The stinky effect makes nearby mobs, except undead mobs, which are actually attracted to whatever has the stinky effect. The stronger the effect, the larger the radius. Phantoms also spawn if the player has the stinky effect, regardless of how much they slept.
 - Hamsters are found in forests, flower forests, birch forests, plains, meadows, cherry groves, and villages.
-- The baseball bat is a great mid-game melee weapon and a great ranged weapon when accompanied by the baseball ball and the baseball glove. Having a baseball glove equipped makes the ball take less time to return.
-- Renaming a coyote "Wiles E Coyote" will change its texture to the famous Looney Tunes character.
+- The baseball bat is a great mid-game melee weapon and a great ranged weapon when accompanied by the baseball ball and the baseball glove. Having a baseball glove makes the ball return faster.
+- Renaming a coyote "Wile E. Coyote" will change its texture to the famous Looney Tunes character.
 - Renaming a roadrunner "Meep Meep" will change its texture to match the Looney Tunes character and also make it absurdly fast.
 - Coyotes hunt roadrunners.
 - Having the stinky effect will immediately get the warden angry. So, going to the deep dark with the stinky effect is a death sentence.
@@ -329,7 +329,7 @@ Features:
 - Diadectes can convert veggies into diadectes scales. These scales can be used to create landbound totems.
 - Landbound totems make crops grow faster, grass spread faster, saplings grow faster, and disable hostile mobs in a radius of 20 blocks.
 - Baseball bats can be enchanted with Home Run from level 1 to 5. Home Run increases the damage from the baseball projectile.
-- Kangaroos can one-shot-kill by kicking or force drowning on any mob or player who attacked them.
+- Kangaroos can one-shot-kill by kicking or force-drowning any mob or player who attacked them.
 - Since binturongs have a popcorn scent around them, they can calm nearby neutral mobs and also reduce the duration of the stinky effect.
 - Outback boomerangs can break plants when thrown. Because they're boomerangs, they always return.
 - Pangolins can drop scutes every 5-10 minutes if near a termite mound or an anthill. They can also drop scutes every time they kill one hornet, spider, cave spider, endermite, or silverfish. Pangolin scutes can be crafted into blocks that practically act like a biological version of stone.
@@ -361,7 +361,7 @@ Advancements:
 - Acme Corporation (Get blasted near a roadrunner)
 - Raise Up Your Bat (Use a baseball bat to attack a mob)
 - Power of the Foot (Kick a soccer ball on a mob)
-- Quill You Stop (Have you or a tamed mob get attacked by a porcupine)
+- Quill You Stop (Get you or a tamed mob pierced by a porcupine)
 - Goal Getter (Score your first goal)
 - There's a Zombie On Your Lawn (Invite a zombie cop to your house)
 - Off My Turf (Place a landbound totem)
