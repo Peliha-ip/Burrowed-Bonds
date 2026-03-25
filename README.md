@@ -170,6 +170,7 @@ Items:
 - Outback boomerang
 - Reinforced shield
 - Lasso
+- Hamster wheel
 - Anteater spawn egg
 - Sloth spawn egg
 - Ground sloth spawn egg
@@ -338,6 +339,8 @@ Features:
 - Cowboys attack hostile mobs on sight.
 - Woodpeckers drum on wooden, copper, and iron-related blocks to communicate their territory. They do forage on trees for food.
 - Cameleons can change their color to communicate their feelings.
+- If there are enough villagers to spawn cats or dogs, hamsters won't spawn since hamsters are very fragile prey pets.
+- Hamster wheels are a great way to protect hamsters from predators, even if hamster wheels won't negate fall damage or stress from the sight of a predator. A way to tell if a hamster is about to take stress damage is if they start trembling. Once at that point, act quickly because they only have 2 HP, barely more than a small slime or magma cube.
 
 Advancements:
 - Ancient Kin (attach an armadillo, an anteater, a sloth, a glyptodont, and a ground sloth on a lead)
