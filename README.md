@@ -370,6 +370,7 @@ Advancements:
 - Yee-Haw (Craft a lasso)
 - Cotton Eye Joe (Use the lasso while riding a horse)
 - Ievan Polkka (Hit a mob with a leek)
+- Hampsterdance (Bring a tamed hamster to every biome)
 
 Tag:
 - Xenarthra: armadillo, anteater, sloth, ground sloth, glyptodont
